@@ -4,7 +4,7 @@
    ### [My-Portfolio](https://wangari-mucheru-portfolio.vercel.app/)
 
 ## Description
-This is my portfolio website made as my first independent project as a Fronted Developer 
+This is my portfolio website made as my first independent project as a Frontend Developer 
 
 ## Author
 Faith Mucheru

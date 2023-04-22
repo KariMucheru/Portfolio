@@ -1,23 +1,22 @@
 # MY PORTFOLIO WEBSITE
 
 ## Visit my website with this link
-   ### [My-Portfolio](https://mugerah.github.io/my-portfolio/)
+   ### [My-Portfolio](https://wangari-mucheru-portfolio.vercel.app/)
 
 ## Description
-This is my portfolio website made as my first independent project assignment in Moringa prep program 
+This is my portfolio website made as my first independent project as a Fronted Developer 
 
 ## Author
-Hughes Mugera
+Faith Mucheru
 
 ## Contact Information
-email :mugerahughes@gmail.com
+email :karimucheru98@gmail.com
 
 ## Technologies Used
 * HTML
 * CSS
 
-## License
-### [MIT LICENSE](https://github.com/MugeraH/my-portfolio/blob/main/license)
+
 
 
 
